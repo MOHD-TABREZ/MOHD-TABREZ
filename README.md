@@ -7,7 +7,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Full Stack Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Software Developer :man_technologist: &nbsp; from India.
 
 - 🔭 I’m Currently a Undergrad Student working on frontend and backend for building web applications.
 - 🌱 Exploring MERN Stack 

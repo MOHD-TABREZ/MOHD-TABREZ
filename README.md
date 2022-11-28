@@ -9,9 +9,9 @@
 
 I am a Full Stack Software Developer :man_technologist: &nbsp; from India.
 
-- 🔭 I’m Currently a Undergrad Student working on frontend and backend for building web applications.
-- 🌱 Exploring MERN Stack 
-- ⚡ In my free time i work on Problem Solving.
+- 🔭 I'm a current undergraduate student focusing on frontend and backend development for web applications.
+- 🌱 Exploring MERN Stack.
+- ⚡ I work on problem solving in my spare time.
 - 📫 How to reach me: &nbsp;**tabrez31mohammed@gmail.com**
 
 ---

@@ -42,9 +42,9 @@ I am a Full Stack Software Developer :man_technologist: &nbsp; from India.
 ---
 
 ###  📈 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MOHD-TABREZ&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak]([http://github-readme-streak-stats.herokuapp.com?user=MOHD-TABREZ&theme=dark&background=000000](http://github-readme-streak-stats.herokuapp.com?user=MOHD-TABREZ&theme=dark&background=000000))](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-TABREZ&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MOHD-TABREZ&layout=compact&theme=vision-friendly-dark)](https://github.com/MOHD-TABREZ/github-readme-stats)
 
 ---
 
